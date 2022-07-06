@@ -1,0 +1,16 @@
+/* .Tengah {text-align: center;} */
+/* p.Tengah {color:red;} */
+/* h1.Kiri {color:blue;}
+h1.Tengah {color:black;} */
+
+.Tengah{
+    text-align: center;
+}
+
+.Tengah p{
+    color: red;
+}
+
+.Tengah h1{
+    font-style: italic;
+}

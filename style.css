@@ -1,0 +1,43 @@
+body { 
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
+    background: white;
+}
+header {
+    background-color: #ededed; 
+    border: solid 1px #000;
+    margin-left: 50px;
+    margin-right: 22%;
+}
+h1.center {
+    text-align: center;
+}
+h3.center {
+    text-align: center;
+    margin-top: -15px;
+}
+span {
+    color: maroon;
+}
+#isi {
+    width: 24cm;
+    height: auto;
+    margin-top: 25px;
+    margin-bottom: auto;
+    margin-left: 4%;
+    padding: 10px;
+    border: 1px solid #000;
+    background: #ededed;
+}
+.navigasi {
+    border: 1px solid #000;
+    margin-top: 25px;
+    padding: 40px;
+    padding-top: 0%;
+    padding-bottom: 10%;
+    background: #ededed;
+}
+#menu {
+    float: right;
+} 
+
